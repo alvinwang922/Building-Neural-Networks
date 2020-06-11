@@ -1,3 +1,3 @@
 # Building Neural Networks
 
-Experimenting with different datasets and building neural networks
+Experimenting with various datasets and building different neural networks
